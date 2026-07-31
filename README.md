@@ -1,0 +1,2 @@
+# fast-lab
+go project
